@@ -1,3 +1,10 @@
+<!-- scope -->
+> [!NOTE]
+> **Projet de recherche en vision par ordinateur.**
+>
+> Ce dÃ©pÃ´t n'est **pas** un cheat : aucun accÃ¨s mÃ©moire, aucune injection dans le jeu, aucune interaction avec le client CS2. C'est un pipeline d'entraÃ®nement et d'infÃ©rence YOLO11 sur des VODs, pour Ã©tudier la dÃ©tection d'objets en temps rÃ©el.
+>
+> Objectif : dataset, entraÃ®nement, Ã©valuation. Rien n'est destinÃ© Ã  Ãªtre utilisÃ© en match.
 # 🧠 CS2 CT/TERO Detection
 
 > Lightweight AI project to detect and classify Terrorists and Counter-Terrorists in Counter-Strike 2 gameplay, using custom-trained YOLOv5 on real CS2 footage.

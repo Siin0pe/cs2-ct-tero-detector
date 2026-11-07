@@ -1,10 +1,10 @@
 <!-- scope -->
 > [!NOTE]
-> **Projet de recherche en vision par ordinateur.**
+> **Computer vision research project.**
 >
-> Ce dépôt n'est **pas** un cheat : aucun accès mémoire, aucune injection dans le jeu, aucune interaction avec le client CS2. C'est un pipeline d'entraînement et d'inférence YOLO11 sur des VODs, pour étudier la détection d'objets en temps réel.
+> This repository is **not** a cheat: no memory access, no game injection, no interaction with the CS2 client. It is a YOLO11 training and inference pipeline on VODs, for studying real-time object detection.
 >
-> Objectif : dataset, entraînement, évaluation. Rien n'est destiné à être utilisé en match.
+> Goal: dataset, training, evaluation. Nothing is intended for use in a match.
 
 # 🧠 CS2 CT/TERO Detection
 
